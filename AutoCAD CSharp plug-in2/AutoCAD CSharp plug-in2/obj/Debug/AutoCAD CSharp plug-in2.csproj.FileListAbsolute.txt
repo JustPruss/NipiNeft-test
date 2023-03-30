@@ -1,0 +1,4 @@
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in2\AutoCAD CSharp plug-in2\obj\Debug\AutoCAD CSharp plug-in2.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in2\AutoCAD CSharp plug-in2\obj\Debug\Minesweeper.MyCommands.resources
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in2\AutoCAD CSharp plug-in2\obj\Debug\AutoCAD CSharp plug-in2.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in2\AutoCAD CSharp plug-in2\obj\Debug\AutoCAD CSharp plug-in2.csproj.CoreCompileInputs.cache
