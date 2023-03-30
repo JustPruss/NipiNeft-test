@@ -1,0 +1,8 @@
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in1\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in1\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in1\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in1\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.dll
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in1\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.pdb
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in1\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.dll
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in1\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.pdb
+C:\Users\Vlad\source\repos\AutoCAD CSharp plug-in1\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD_CSharp_plug_in1.Commands.resources
